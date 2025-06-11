@@ -12,7 +12,15 @@ body {
   color: #1b7960;
   padding: 20px 40px;
   line-height: 1.6;
+  border: 10px double #064e3b; /* Moldura decorativa*/
+  border-radius: 25px;
+  padding: 30px;
+  margin: 20px;
+  background-color: #f0fff5;
+  box-shadow: 0 0 15px rgba(6, 78, 59, 0.3); /* Sombra suave ao redor */
 }
+
+
 
 /* Cabeçalho */
 header {
