@@ -119,11 +119,11 @@ section img {
 /* Rodapé */
 footer {
   text-align: center;
-  color: #4b5563;
+  color: #ffffff;
   font-size: 0.9em;
   margin-top: 50px;
   padding: 20px 0;
-  border-top: 1px solid #a7f3d0;
+  border-top: 1px solid #0d643c;
 }
 
 /* Responsividade */
