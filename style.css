@@ -124,6 +124,17 @@ section img {
   margin-bottom: 10px;
 }
 
+.agradecimento {
+  background-color: #ecfdf5;
+  border: 2px dashed #10b981;
+  padding: 20px;
+  text-align: center;
+  border-radius: 12px;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+
 /* Rodapé */
 footer {
   text-align: center;
